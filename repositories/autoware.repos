@@ -23,3 +23,8 @@ repositories:
     type: git
     url: https://github.com/CQULzz/autoware_vehicle_launch.git
     version: main
+
+  fixposition_driver:
+    type: git
+    url: https://github.com/Unmanned-Systems-Lab/lynx_sensor_drivers.git
+    version: main
