@@ -1,0 +1,6 @@
+# Meta-repo tracks dependency manifests and docs only.
+src/
+build/
+install/
+log/
+

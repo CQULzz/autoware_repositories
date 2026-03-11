@@ -1,0 +1,21 @@
+repositories:
+  autoware_individual_params:
+    type: git
+    url: https://github.com/CQULzz/autoware_individual_params.git
+    version: main
+
+  autoware_launch:
+    type: git
+    url: https://github.com/CQULzz/autoware_launch.git
+    version: main
+
+  autoware_sensor_kit_launch:
+    type: git
+    url: https://github.com/CQULzz/autoware_sensor_kit_launch.git
+    version: main
+
+  autoware_vehicle_launch:
+    type: git
+    url: https://github.com/CQULzz/autoware_vehicle_launch.git
+    version: main
+
