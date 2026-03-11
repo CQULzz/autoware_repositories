@@ -1,4 +1,9 @@
 repositories:
+  autoware_common:
+    type: git
+    url: git@github.com:CQULzz/autoware_common.git
+    version: main
+
   autoware_individual_params:
     type: git
     url: https://github.com/CQULzz/autoware_individual_params.git
@@ -18,4 +23,3 @@ repositories:
     type: git
     url: https://github.com/CQULzz/autoware_vehicle_launch.git
     version: main
-
